@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Yamina Pipolo, a Visual UX/UI Designer ⚡diving into frontend development with Shopify⚡.
+- 👋 Hi, I'm Yamina Pipolo, a Visual UX/UI Designer.
 
 
 <!---
